@@ -1,2 +1,2 @@
-A python project that focuses on untilisng the tools of Objected Oriented Programming to make a detailed to do list with many useful features.
+A python project that focuses on untilisng the tools of Objected Oriented Programming and Data Structures and Algorithms to make a detailed to do list with many useful features.
 This is for learning python but I hope to make it full stack as a feature of a productivity app for the future.
